@@ -16,6 +16,6 @@ The models are tested on a variety of datasets including:
 - A **2D thin manifold** embedded in 100D space
 
 ## Repository Structure
-- data/ Scripts for CelebA download and synthetic dataset generation
+- datasets/ Scripts for CelebA download and synthetic dataset generation
 - train/ Training logic for each model type
 - eval/ Scripts for trajectory divergence, cosine similarity, attractor stability
